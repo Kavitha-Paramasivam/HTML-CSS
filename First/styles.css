@@ -87,6 +87,8 @@ p{
  
 
 .left{
+    -webkit-background-size:cover;
+    
 
     width:35%;
 
